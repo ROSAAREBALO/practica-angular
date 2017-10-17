@@ -1,0 +1,19 @@
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width:50%;
+}
+
+.example-full-width {
+  width: 50%;
+}
+
+.example-button-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.loginn{
+
+   color: #0066ff;
+}
